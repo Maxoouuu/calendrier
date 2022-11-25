@@ -57,7 +57,7 @@ export const HeadDays = styled.span`
   border: 1px solid;
   height: 30px;
   padding: 5px;
-  background: darkolivegreen;
+  background: darkblue;
   color: white;
 `;
 
